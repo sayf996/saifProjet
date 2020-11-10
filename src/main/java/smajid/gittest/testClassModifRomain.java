@@ -7,8 +7,8 @@ package smajid.gittest;
 
 /**
  *
- * @author saifmohanad
+ * @author romai
  */
-public class Client {
-    // SALUT SAIF JECRIS DES MODIFICATIONS ICI
+public class testClassModifRomain {
+    
 }
